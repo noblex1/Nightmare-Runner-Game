@@ -1,6 +1,7 @@
 # Nightmare Runner
 
-![Optional: Add a captivating header image or GIF here]
+![{1E3E656D-3EA6-48AB-8979-86A4BDFBB5AA}](https://github.com/user-attachments/assets/fbd2d89d-1b84-4dcd-b6ef-dacbbf517500)
+
 
 ## About the Game
 Welcome to the endless terror of **Nightmare Runner**. Trapped in a relentless, ever-shifting nightmare, your only hope is to run. The deeper you delve into this twisted dreamscape, the more the darkness contorts and the horrors hunger. How long can you survive the chase?
